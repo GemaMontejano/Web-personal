@@ -1,0 +1,16 @@
+#cabecera {
+  background-color: white;
+  margin:auto;
+  display: flex;
+  font-size: 25px;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+#enlaces{
+    background-color: white;
+  margin:auto;
+  display: flex;
+  font-size: 25px;
+  flex-direction: row;
+  justify-content: flex-end;
+}
